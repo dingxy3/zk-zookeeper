@@ -1,0 +1,7 @@
+## Directory-based project format:
+.idea/*
+!.idea/runConfigurations/
+
+*.iml
+out/*
+target/*
